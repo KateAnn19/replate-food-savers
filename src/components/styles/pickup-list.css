@@ -1,0 +1,8 @@
+.pickup-container{
+    display: flex;
+}
+
+.pickups{
+    border: 2px solid purple;
+    width: 10%;
+}

@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    
+}
+
+
+.pickups{
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    border: 2px solid grey;
+    width: 15%;
+    margin: 0 0 2% 10%;
+    text-align: center;
+}
+
+.pickups-container{
+   
+    /* padding: 3% 8% 3% 20%; */
+    margin: 2%;
+}
